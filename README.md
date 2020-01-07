@@ -3,7 +3,7 @@ Finding interesting trends/behaviors while analyzing and perform clustering on t
 
 <img src="https://ak9.picdn.net/shutterstock/videos/2309489/thumb/1.jpg" height="70%" width="80%" >
 
- I build this notebook for quick overview on `Airplane crashes since 1908)` dataset.
+ I build this notebook for quick overview on `Airplane crashes since 1908` dataset.
 For your convenience, please view it in [kaggle](https://www.kaggle.com/iamrohitsingh/flight-crash-investigation/notebook).
 
 I encourage you to fork this kernel/GitHub repo, play with the code and learn new trends and patterns. The EDA & Visualizations are included to allow developers to dive into analysis of dataset. Good luck!
