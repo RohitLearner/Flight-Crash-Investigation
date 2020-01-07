@@ -38,7 +38,7 @@ In your project directory, start the notebook with:
 -   `PYTHON=python3 jupyter notebook`
 -   Click on  **New**  and start coding/exploring.
 
-## Key features of the model training process
+## Key features of notebook/kernel
 
 1.  15 valuable Visualizations.
 
